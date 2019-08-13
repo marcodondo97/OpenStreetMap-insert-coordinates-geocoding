@@ -35,3 +35,5 @@ Invitation to take tests.
 it is necessary to create a database.
 I USED XAMPP V 5.5.38.
 
+![Immaginemappa2](https://user-images.githubusercontent.com/47212147/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png)
+![Immaginemappa](https://user-images.githubusercontent.com/47212147/62973203-ecec2380-be15-11e9-9d02-feb070c280f4.jpg)
