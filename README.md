@@ -6,11 +6,11 @@ How to insert geo coordinates in map from name adress?
  
 To build map I used the following technologies:
 
-Frontend: markup and scripting languages HTML5, Javascript, JQuery (Library);
-Import map from leaflat js (https://leafletjs.com/);
-Geocoding: OpenStreetMap (https://www.openstreetmap.org/#map=5/45.768/11.382);
-Backend: programming language for PHP5 webserver interface;
-Database: MySql and PHP5;
+- Frontend: markup and scripting languages HTML5, Javascript, JQuery (Library);
+- Import map from leaflat js (https://leafletjs.com/);
+- Geocoding: OpenStreetMap (https://www.openstreetmap.org/#map=5/45.768/11.382);
+- Backend: programming language for PHP5 webserver interface;
+- Database: MySql and PHP5;
  
 
 Purpose of the program:
@@ -35,7 +35,7 @@ Invitation to take tests.
 it is necessary to create a database.
 I USED XAMPP V 5.5.38.
 
-![Immaginemappa](https://user-images.githubusercontent.com/47212147/62973203-ecec2380-be15-11e9-9d02-feb070c280f4.jpg)
+<img src="screenshot/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png" width="48">
 
-![Immaginemappa2](https://user-images.githubusercontent.com/47212147/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png)
+
 
