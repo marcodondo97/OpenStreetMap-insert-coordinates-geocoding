@@ -13,7 +13,7 @@ To build map I used the following technologies:
 - Database: MySql and PHP5;
  
 
-Purpose of the program:
+<h1>Purpose of the program:</h1>
 
 Have the user insert their placeholder on the map starting from the entry of an alphanumeric address .
 
