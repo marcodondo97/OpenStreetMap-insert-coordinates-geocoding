@@ -35,7 +35,7 @@ Invitation to take tests.
 it is necessary to create a database.
 I USED XAMPP V 5.5.38.
 
-<img src="screenshot/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png" width="48">
+<img src="screenshot/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png" width="60%">
 
 
 
