@@ -2,6 +2,8 @@
 
 How to insert geo coordinates in map from name adress?
 
+<h2> Introduction </h2>
+
  *IMPORTANT PHP version 5.5.38 warning at deprecate sintax*
  
 To build map I used the following technologies:
@@ -13,7 +15,7 @@ To build map I used the following technologies:
 - Database: MySql and PHP5;
  
 
-<h1>Purpose of the program:</h1>
+<h2>Description</h2>
 
 Have the user insert their placeholder on the map starting from the entry of an alphanumeric address .
 
@@ -34,6 +36,9 @@ This program is opensource and completely free, has some small limitations.
 Invitation to take tests.
 it is necessary to create a database.
 I USED XAMPP V 5.5.38.
+
+
+<h2> Images </h2>
 
 <img src="screenshot/62973197-e9589c80-be15-11e9-89c1-67ab27499d60.png" width="60%">
 
