@@ -15,15 +15,14 @@ To build map I used the following technologies:
 
 <h2>Description</h2>
 
-Have the user insert their placeholder on the map starting from the entry of an alphanumeric address .
+Thanks to this application the users can insert a placeholder on the map.
 
  
+Operation: The program import the map from the library and prints it on screen, then it search on the database to find out if there are placeholders or it inserts them on the map. You can click the placeholder to zoom the map in order to be able to divide too many nearby markers and separate them, clicking on the single placeholder will open an infowindow where you can read the information about the user.
 
-Operation: The program takes the map from the library and prints it on screen, then it search on the database to find out if there are placeholders and inserts them on the map. You can clilck the placeholder to zoom the map in order to be able to divide too many nearby markers and separate them, clicking on the single placeholder will open an infowindow where the data you can check the registered users info.
+The registration user takes place in two moments: first step you have to type the the street address, second, once clicked on continue the data entered will make an http request to the OpenStreetMap site which will process them and find the coordinates (latitude and longitude), afterwards, the page will extract the coordinates from the OpenStreetMap site and it will insert them automatically on a form and the user can type the data he wants to put in the placeholder infowindow, once clicked on send the data will be allocated in the database and they will be displayed on the map in the correct position.
 
-The user registration takes place in two moments: first of all you to type the the street address, the second, once clicked on continue the data entered will make an http request to the OpenStreetMap site which will process them and find the coordinates (latitude and longitude), afterwards, the page will extract the coordinates from the OpenStreetMap site to insert them automatically on a form and the user can type the data he wants to put in the placeholder infowindow, once clicked on send the data will be allocated the database webserver and they will be displayed on the map.
-
-If the street is not written correctly or the program cannot find the way, it opens an alert and the user have to type the coordinates manually following the instructions.
+If the street is not written correctly or the program cannot find the location, it opens an alert and the user have to type the coordinates manually following the instructions.
 
 This program is opensource.
 
