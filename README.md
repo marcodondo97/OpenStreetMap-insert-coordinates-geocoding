@@ -4,14 +4,12 @@ How to insert geo coordinates in map from name adress?
 
 <h2> Introduction </h2>
 
- *IMPORTANT PHP version 5.5.38 warning at deprecate sintax*
- 
 To build map I used the following technologies:
 
-- Frontend: markup and scripting languages HTML5, Javascript, JQuery (Library);
+- Frontend: markup and scripting languages HTML5, Javascript and JQuery;
 - Import map from leaflat js (https://leafletjs.com/);
 - Geocoding: OpenStreetMap (https://www.openstreetmap.org/#map=5/45.768/11.382);
-- Backend: programming language for PHP5 webserver interface;
+- Backend: PHP5 ;
 - Database: MySql and PHP5;
  
 
